@@ -1,3 +1,7 @@
+## 0.1.5
+
+- Track [Hearth 0.1.5](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.5), which hides the Home Assistant panel title bar above the Ingress frame and returns the full screen height to the dashboard.
+
 ## 0.1.3
 
 - Use the live Home Assistant frontend origin for Ingress authentication so secure-context proxies such as Kiosk Satellite can cold-start Hearth without a blocked OAuth redirect.
