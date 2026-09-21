@@ -1,3 +1,7 @@
+## 0.1.7
+
+- Track [Hearth 0.1.7](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.7), which fades scroll edges into the page background in low-power mode instead of painting a near-white veil over dark presets.
+
 ## 0.1.6
 
 - Track [Hearth 0.1.6](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.6), which stops the room tab strip from inheriting the container padding, so raising Padding X moves the dashboard content without pushing tabs off the end.
