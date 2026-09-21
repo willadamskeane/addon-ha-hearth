@@ -39,7 +39,7 @@ jobs:
         uses: home-assistant/builder/actions/build-image@4de35182ce1e329181bffcbcc84d33db5e2c7e10 # 2026.06.0
         with:
           arch: ${{ matrix.arch }}
-          image: ghcr.io/knowald/addon-ha-hearth-${{ matrix.arch }}
+          image: ghcr.io/willadamskeane/addon-ha-hearth-${{ matrix.arch }}
           version: ${{ steps.version.outputs.version }}
           build-args: |
             BUILD_FROM=${{ matrix.base }}

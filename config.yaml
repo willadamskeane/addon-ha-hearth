@@ -1,6 +1,6 @@
 # required configuration options
-name: Hearth
-version: 0.1.0
+name: Hearth (Will's fork)
+version: 0.1.1
 slug: ha_hearth
 description: An independent Home Assistant dashboard for wall tablets, phones and desktops
 arch:
@@ -11,7 +11,7 @@ arch:
 init: false
 
 # homepage of the add-on
-url: https://github.com/knowald/addon-ha-hearth
+url: https://github.com/willadamskeane/addon-ha-hearth
 
 # icon for the menu panel integration
 panel_icon: mdi:fireplace
@@ -34,4 +34,4 @@ ports:
   8099/tcp: null
 
 # published by .github/workflows/publish.yml
-image: ghcr.io/knowald/addon-ha-hearth-{arch}
+image: ghcr.io/willadamskeane/addon-ha-hearth-{arch}

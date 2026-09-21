@@ -10,7 +10,7 @@ WORKDIR /app
 # matching ha-hearth release tag instead of whatever master happens to be
 ARG BUILD_VERSION
 
-RUN git clone --depth 1 --branch "${BUILD_VERSION}" https://github.com/knowald/ha-hearth . && \
+RUN git clone --depth 1 --branch "${BUILD_VERSION}" https://github.com/willadamskeane/ha-hearth . && \
   npm install -g pnpm && \
   pnpm install --frozen-lockfile && \
   pnpm run build && \
@@ -25,6 +25,7 @@ WORKDIR /rootfs
 COPY --from=builder /app/build ./build
 COPY --from=builder /app/node_modules ./node_modules
 COPY --from=builder /app/server.js .
+COPY --from=builder /app/server-url.js .
 COPY --from=builder /app/package.json .
 
 # copy run
