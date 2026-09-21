@@ -1,3 +1,8 @@
+## 0.1.2
+
+- Reuse Home Assistant's authenticated browser session in Ingress instead of starting an OAuth redirect that Home Assistant rejects inside the Ingress iframe.
+- Preserve standalone Hearth OAuth behavior outside Ingress.
+
 ## 0.1.1
 
 - Build the Home Assistant app from the `willadamskeane/ha-hearth` fork.
