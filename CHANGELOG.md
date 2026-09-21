@@ -1,3 +1,7 @@
+## 0.1.6
+
+- Track [Hearth 0.1.6](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.6), which stops the room tab strip from inheriting the container padding, so raising Padding X moves the dashboard content without pushing tabs off the end.
+
 ## 0.1.5
 
 - Track [Hearth 0.1.5](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.5), which hides the Home Assistant panel title bar above the Ingress frame and returns the full screen height to the dashboard.
