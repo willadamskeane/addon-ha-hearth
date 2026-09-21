@@ -7,6 +7,9 @@ export ADDON="true"
 export HASS_PORT="$(bashio::core.port)"
 export HASS_URL="http://homeassistant:${HASS_PORT}"
 export EXPOSED_PORT="$(bashio::addon.port "8099/tcp")"
+export HEARTH_DIRECT_ACCESS="$(bashio::config 'direct_access')"
+export HEARTH_TRUSTED_CLIENTS="$(bashio::config 'trusted_clients')"
+export HEARTH_LOW_POWER="$(bashio::config 'low_power')"
 
 echo "Starting Hearth..."
 

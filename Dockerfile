@@ -26,6 +26,7 @@ COPY --from=builder /app/build ./build
 COPY --from=builder /app/node_modules ./node_modules
 COPY --from=builder /app/server.js .
 COPY --from=builder /app/server-url.js .
+COPY --from=builder /app/server-auth.js .
 COPY --from=builder /app/package.json .
 
 # copy run
