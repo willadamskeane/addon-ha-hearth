@@ -1,3 +1,7 @@
+## 0.1.3
+
+- Use the live Home Assistant frontend origin for Ingress authentication so secure-context proxies such as Kiosk Satellite can cold-start Hearth without a blocked OAuth redirect.
+
 ## 0.1.2
 
 - Reuse Home Assistant's authenticated browser session in Ingress instead of starting an OAuth redirect that Home Assistant rejects inside the Ingress iframe.
