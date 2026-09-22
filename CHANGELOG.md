@@ -1,3 +1,7 @@
+## 0.1.10
+
+- Track [Hearth 0.1.10](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.10), which moves the edit toggle into the page strip on narrow screens so it no longer floats over the first column's tiles on a wall tablet.
+
 ## 0.1.9
 
 - Track [Hearth 0.1.9](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.9), which scales the rail energy reading into kWh for sensors measured in Wh, and words door and window contact sensors as Open/Closed rather than On/Off.
