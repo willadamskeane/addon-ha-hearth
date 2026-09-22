@@ -1,3 +1,7 @@
+## 0.1.8
+
+- Track [Hearth 0.1.8](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.8), which restores Voice Satellite under Kiosk Satellite's rewritten Ingress routes by using the live proxy origin for the shared Home Assistant session.
+
 ## 0.1.7
 
 - Track [Hearth 0.1.7](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.7), which fades scroll edges into the page background in low-power mode instead of painting a near-white veil over dark presets.
