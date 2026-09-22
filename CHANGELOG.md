@@ -1,3 +1,7 @@
+## 0.1.9
+
+- Track [Hearth 0.1.9](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.9), which scales the rail energy reading into kWh for sensors measured in Wh, and words door and window contact sensors as Open/Closed rather than On/Off.
+
 ## 0.1.8
 
 - Track [Hearth 0.1.8](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.8), which restores Voice Satellite under Kiosk Satellite's rewritten Ingress routes by using the live proxy origin for the shared Home Assistant session.
