@@ -1,3 +1,7 @@
+## 0.1.17
+
+- Track [Hearth 0.1.17](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.17), which subscribes only to the entities a dashboard shows (widening while editing or searching) and trims per-tile setup cost.
+
 ## 0.1.16
 
 - Track [Hearth 0.1.16](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.16), which opens pages faster on slow tablets (first cards first, no drag-and-drop setup outside edit mode, cached date formatters).
