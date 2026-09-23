@@ -1,3 +1,7 @@
+## 0.1.19
+
+- Track [Hearth 0.1.19](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.19), whose camera card can show several cameras as a grid of snapshots that open the live view.
+
 ## 0.1.18
 
 - Track [Hearth 0.1.18](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.18), which stops scrolling touches from toggling lights: tiles act only on a real tap, and touches that land while the page is scrolling press nothing.
