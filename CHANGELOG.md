@@ -1,3 +1,7 @@
+## 0.1.18
+
+- Track [Hearth 0.1.18](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.18), which stops scrolling touches from toggling lights: tiles act only on a real tap, and touches that land while the page is scrolling press nothing.
+
 ## 0.1.17
 
 - Track [Hearth 0.1.17](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.17), which subscribes only to the entities a dashboard shows (widening while editing or searching) and trims per-tile setup cost.
