@@ -1,3 +1,7 @@
+## 0.1.20
+
+- Track [Hearth 0.1.20](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.20), which fixes camera grid snapshot placement.
+
 ## 0.1.19
 
 - Track [Hearth 0.1.19](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.19), whose camera card can show several cameras as a grid of snapshots that open the live view.
