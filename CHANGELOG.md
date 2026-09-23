@@ -1,3 +1,7 @@
+## 0.1.15
+
+- Track [Hearth 0.1.15](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.15), which adds an opt-in performance overlay for diagnosing lag on wall tablets.
+
 ## 0.1.14
 
 - Track [Hearth 0.1.14](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.14), which moves the narrow-layout edit toggle into the status strip so the page tabs get their full width back.
