@@ -1,3 +1,7 @@
+## 0.1.14
+
+- Track [Hearth 0.1.14](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.14), which moves the narrow-layout edit toggle into the status strip so the page tabs get their full width back.
+
 ## 0.1.13
 
 - Track [Hearth 0.1.13](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.13), which stops the narrow-layout status strip from clipping the clock and chips vertically.
