@@ -1,3 +1,7 @@
+## 0.1.16
+
+- Track [Hearth 0.1.16](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.16), which opens pages faster on slow tablets (first cards first, no drag-and-drop setup outside edit mode, cached date formatters).
+
 ## 0.1.15
 
 - Track [Hearth 0.1.15](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.15), which adds an opt-in performance overlay for diagnosing lag on wall tablets.
