@@ -1,3 +1,7 @@
+## 0.1.13
+
+- Track [Hearth 0.1.13](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.13), which stops the narrow-layout status strip from clipping the clock and chips vertically.
+
 ## 0.1.12
 
 - Track [Hearth 0.1.12](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.12), which shows the rail's clock, energy, activity and next-event widgets as a status strip above the page tabs on narrow screens instead of stacking the rail below every page.
