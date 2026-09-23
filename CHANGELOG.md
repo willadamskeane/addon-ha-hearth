@@ -1,3 +1,7 @@
+## 0.1.11
+
+- Track [Hearth 0.1.11](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.11), which compacts the room header on narrow screens so a wall tablet spends less height on the room name.
+
 ## 0.1.10
 
 - Track [Hearth 0.1.10](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.10), which moves the edit toggle into the page strip on narrow screens so it no longer floats over the first column's tiles on a wall tablet.
