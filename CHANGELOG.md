@@ -1,3 +1,7 @@
+## 0.1.21
+
+- Track [Hearth 0.1.21](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.21), which plays live camera views over WebRTC when Home Assistant offers it instead of always using HLS.
+
 ## 0.1.20
 
 - Track [Hearth 0.1.20](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.20), which fixes camera grid snapshot placement.
