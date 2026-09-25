@@ -1,6 +1,6 @@
 ## 0.1.22
 
-- Merge upstream Hearth 0.3.0 into the fork: clearer connection and config errors, one entity detail sheet everywhere, back-button closing, drag-to-set cover tiles, editor improvements and more translations, while keeping the fork's status strip, performance work, scroll-safe taps and camera grid.
+- Track [Hearth 0.1.22](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.22), which merges upstream Hearth 0.3.0: clearer connection and config errors, one entity detail sheet everywhere, back-button closing, drag-to-set cover tiles, editor improvements and more translations, while keeping the fork's status strip, performance work, scroll-safe taps and camera grid.
 
 ## 0.1.21
 
