@@ -1,3 +1,7 @@
+## 0.1.23
+
+- Track [Hearth 0.1.23](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.23), which keeps the status strip and page labels on small wall tablets after the upstream merge.
+
 ## 0.1.22
 
 - Track [Hearth 0.1.22](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.22), which merges upstream Hearth 0.3.0: clearer connection and config errors, one entity detail sheet everywhere, back-button closing, drag-to-set cover tiles, editor improvements and more translations, while keeping the fork's status strip, performance work, scroll-safe taps and camera grid.

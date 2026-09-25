@@ -1,6 +1,6 @@
 # required configuration options
 name: Hearth (Will's fork)
-version: 0.1.22
+version: 0.1.23
 slug: ha_hearth
 description: An independent Home Assistant dashboard for wall tablets, phones and desktops
 arch:
