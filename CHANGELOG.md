@@ -1,3 +1,7 @@
+## 0.1.24
+
+- Track [Hearth 0.1.24](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.24), which drops the extra side gutter the upstream merge added on narrow screens.
+
 ## 0.1.23
 
 - Track [Hearth 0.1.23](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.23), which keeps the status strip and page labels on small wall tablets after the upstream merge.
