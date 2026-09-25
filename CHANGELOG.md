@@ -1,3 +1,7 @@
+## 0.1.22
+
+- Merge upstream Hearth 0.3.0 into the fork: clearer connection and config errors, one entity detail sheet everywhere, back-button closing, drag-to-set cover tiles, editor improvements and more translations, while keeping the fork's status strip, performance work, scroll-safe taps and camera grid.
+
 ## 0.1.21
 
 - Track [Hearth 0.1.21](https://github.com/willadamskeane/ha-hearth/releases/tag/0.1.21), which plays live camera views over WebRTC when Home Assistant offers it instead of always using HLS.
